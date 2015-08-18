@@ -8,8 +8,6 @@
 ** Stuck for quite some time with these problem, after doing some research I was able to solve it.
 */
 
-import java.util.*;
-
 class EvenlyDivisible{
 	public static void main(String[] args){
 		long num=1;
